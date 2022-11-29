@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean Yasnogorodski</h1>
 <h3 align="center">An experienced passionate Full-Stack Developer from Israel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanyasno" alt="seanyasno" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sean_yasno" target="blank"><img src="https://img.shields.io/twitter/follow/sean_yasno?logo=twitter&style=for-the-badge" alt="sean_yasno" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
